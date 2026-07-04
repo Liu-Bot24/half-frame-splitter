@@ -2,6 +2,8 @@
 
 # Half-Frame Splitter
 
+![Stars](https://img.shields.io/github/stars/Liu-Bot24/half-frame-splitter?style=flat&label=Stars&cache=20260704) ![Forks](https://img.shields.io/github/forks/Liu-Bot24/half-frame-splitter?style=flat&label=Forks&cache=20260704) ![Views 14d](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/half-frame-splitter/views14d.svg?v=4) ![Clones 14d](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/half-frame-splitter/clones14d.svg?v=4)
+
 Languages: [简体中文](README.md) · [English](README-en.md)
 
 </div>
